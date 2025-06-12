@@ -1,3 +1,4 @@
+package Datatype;
 public class Datatype2 {
             public class Loop {
     public static void main(String[] args) {
