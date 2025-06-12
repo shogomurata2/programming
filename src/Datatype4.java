@@ -1,9 +1,7 @@
 import java.util.Scanner;
 
-public class Datatype {
-    public static void main(String[] args) }
-
-class Conditional {
+public class Datatype4 {
+    public class Conditional {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("点数を入力してください: ");
